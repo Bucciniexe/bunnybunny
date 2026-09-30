@@ -1,4 +1,4 @@
-![1](https://user-images.githubusercontent.com/123178455/213800396-138f7cd9-9dbe-455e-92e9-7f9f3422699c.jpg)
+![1](https://files.catbox.moe/u4bk4q.png)
 # Inventory counter (unfinished project)
  
 ### Tools used in most projects
